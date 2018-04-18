@@ -1,2 +1,2 @@
-# Landslide-Detector
+# Landslideetector
 dfddfsfds
